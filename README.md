@@ -18,7 +18,6 @@
     </ul>
 <span>
 <h2>Especificaçoes</h2>
-<span>
     <h3>Componentes</h3>
     <ul>
         <li>4x - Display de 7segmentos</li>
@@ -34,4 +33,4 @@
         <li>Subtraçao nao ocorre quando A>B</li>
     </ul>
 
-</span>
+
