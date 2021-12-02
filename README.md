@@ -19,6 +19,7 @@
 <span>
 <h2>Especificaçoes</h2>
 <span>
+    <h3>Componentes</h3>
     <ul>
         <li>4x - Display de 7segmentos</li>
         <li>2x - Decodificador de 7segmentos</li>
@@ -26,4 +27,11 @@
         <li>1x - Decodificador de 14segmentos - Subcircuito</li>
         <li>4x - Portas logicas xor</li>
     </ul>
+    <h2>Limitaçoes<h2>
+    <ul>
+        <li>Entrada em binario</li>
+        <li>Soma de ate 3bits</li>
+        <li>Subtraçao nao ocorre quando A>B</li>
+    </ul>
+
 </span>
