@@ -28,7 +28,7 @@
         <li>4x - Portas logicas xor</li>
     </ul>
     </span>
-    <h3>Limitaçoes<h2>
+    <h3>Limitaçoes</h3>
     <span>
     <ul>
         <li>Entrada em binario</li>
