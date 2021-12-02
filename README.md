@@ -16,7 +16,7 @@
         <li>Copie e cole o codigo que esta na pasta "Main" </li>
         <li>Clique em "Ok"</li>
     </ul>
-<span>
+</span>
 <h2>Especificaçoes</h2>
     <h3>Componentes</h3>
     <span>
