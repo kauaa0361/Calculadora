@@ -20,6 +20,10 @@
 <h2>Especificaçoes</h2>
 <span>
     <ul>
-        <li></li>
+        <li>4x - Display de 7segmentos</li>
+        <li>2x - Decodificador de 7segmentos</li>
+        <li>1x - Somador 4bits - Subcircuito</li>
+        <li>1x - Decodificador de 14segmentos - Subcircuito</li>
+        <li>4x - Portas logicas xor</li>
     </ul>
 </span>
