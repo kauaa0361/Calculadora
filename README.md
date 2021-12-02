@@ -11,9 +11,15 @@
 <h2>Como usar</h2>
 <span>
     <ul>
-        <li>Entre no simulador de circuitos Falstad: <a>https://www.falstad.com/circuit/circuitjs.html</a></li>
+        <li>Entre no simulador de circuitos Falstad: <a href="https://www.falstad.com/circuit/circuitjs.html">Clicando aqui</a></li>
         <li>No canto superior esquerdo clique em "Arquivo" e depois "Importar arquivo de texto"</li>
         <li>Copie e cole o codigo que esta na pasta "Main" </li>
         <li>Clique em "Ok"</li>
     </ul>
 <span>
+<h2>Especificaçoes</h2>
+<span>
+    <ul>
+        <li></li>
+    </ul>
+</span>
