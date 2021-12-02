@@ -8,7 +8,7 @@
 <span>
     O objetivo desse projeto foi desenvolver uma calculadora que mostre o resultado em decimal para que seja legivel ao usuario e de facil uso 
 </span>
-<h2>Como usar</h2>
+<h2>Como simular</h2>
 <span>
     <ul>
         <li>Entre no simulador de circuitos Falstad: <a href="https://www.falstad.com/circuit/circuitjs.html">Clicando aqui</a></li>
